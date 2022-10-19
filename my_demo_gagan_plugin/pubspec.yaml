@@ -1,7 +1,7 @@
 name: my_demo_gagan_plugin
-description: A new Flutter plugin project.
+description: A This plugin demo plugin new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Gagan5278/testflutterplugin
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
